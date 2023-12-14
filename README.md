@@ -1,4 +1,4 @@
-# CHECKPOINT
+# CHECKLIST
 
 1. Connected to internet
 2. Has Docker installed
@@ -10,3 +10,4 @@
     - django
     - django-environ
     - psycopg
+
